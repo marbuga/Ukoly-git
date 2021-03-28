@@ -1,16 +1,16 @@
 # The Handmaid's Tale Episodes
 
 ## Season 1
-* Offred
-* Birth Day
-* Late
-* Nolite Te Bastardes Carborundorum
-* Faithful
-* A Woman's Place
-* The Other Side
-* Jezebels
-* The Bridge
-* Night
+1. Offred
+2. Birth Day
+3. Late
+4. Nolite Te Bastardes Carborundorum
+5. Faithful
+6. A Woman's Place
+7. The Other Side
+8. Jezebels
+9. The Bridge
+10. Night
 
 ## Season 2
 1. June
