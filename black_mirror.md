@@ -6,23 +6,23 @@
 3. The Entire History of You
 
 ## Season 2
-*  Be Right Back
-*  White Bear
-*  The Waldo Moment
-*  White Christmas
+1.  Be Right Back
+2.  White Bear
+3.  The Waldo Moment
+4.  White Christmas
 
 ## Season 3
-*  Nosedive
-*  Playtest
-*  Shut Up and Dance
-*  San Junipero
-*  Men Against Fire
-*  Hated in the Nation
+1.  Nosedive
+2.  Playtest
+3.  Shut Up and Dance
+4.  San Junipero
+5.  Men Against Fire
+6.  Hated in the Nation
 
 ## Season 4
-* USS Callister
-* Arkangel
-* Crocodile
-* Hang the DJ
-* Metalhead
-* Black Museum
+1. USS Callister
+2. Arkangel
+3. Crocodile
+4. Hang the DJ
+5. Metalhead
+6. Black Museum
